@@ -4,13 +4,19 @@
 This section contains my analysis of Question 2 (Class Design):
 
 #### My initial approach during the exam:
-- Ideas here
+- Easy to understand
+- needed 2 private instance variables
+- getSignature and addSignature methods
+- I knew we had to add the input string parameter somewhere
   
 #### My revised solution after review:
-- Ideas here
+- Everything was the same, but the checking if the input string parameter was found.
+- Corrected the addSignature conditions with the placement of the input string
   
 #### Key concepts tested in this question:
-- Ideas here
+- Class design
+- String
+- Conditions
   
 #### What I learned from revisiting this problem:
-- Ideas here
+- Always make sure the conditions is logical
