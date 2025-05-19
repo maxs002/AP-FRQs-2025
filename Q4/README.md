@@ -1,22 +1,21 @@
-## Question 3 Analysis
+## Question 4 Analysis
 ### Signature
 
 This section contains my analysis of Question 2 (Class Design):
 
 #### My initial approach during the exam:
 - Easy to understand
-- knew i needed to create new instance 
-- I knew mod was needed
-- although i need what was needed was kinda hard to write it during the test like the size()-1-i
+- Knew we need to check condtions of same path
+- Booleans/if conditions
+- did the same thing but i believe incorrectly did the first if condition of != row != col
   
 #### My revised solution after review:
-- made sure it was size()-1-i
-- probably shouldve made variables for size() because too much writing
+- made sure all if conditions were logical
   
 #### Key concepts tested in this question:
 - loops
-- Mod
-- ArrayList
+- Random Number generator
+- if conditions/booleans
 - Arrays
   
 #### What I learned from revisiting this problem:
