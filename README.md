@@ -1,6 +1,6 @@
 # AP-FRQs-2025
 
-*Solutions written by Joshua Hans*
+*Solutions written by Max Shi*
 
 ## Introduction
 This repository contains my solutions and reflections for the AP Computer Science exam taken on [Date]. While reviewing the released questions, I've documented my approach, insights gained, and areas for future growth.
