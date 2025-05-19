@@ -1,22 +1,23 @@
-## Question 2 Analysis
+## Question 3 Analysis
 ### Signature
 
 This section contains my analysis of Question 2 (Class Design):
 
 #### My initial approach during the exam:
 - Easy to understand
-- needed 2 private instance variables
-- getSignature and addSignature methods
-- I knew we had to add the input string parameter somewhere
+- knew i needed to create new instance 
+- I knew mod was needed
+- although i need what was needed was kinda hard to write it during the test like the size()-1-i
   
 #### My revised solution after review:
-- Everything was the same, but the checking if the input string parameter was found.
-- Corrected the addSignature conditions with the placement of the input string
+- made sure it was size()-1-i
+- probably shouldve made variables for size() because too much writing
   
 #### Key concepts tested in this question:
-- Class design
-- String
-- Conditions
+- loops
+- Mod
+- ArrayList
+- Arrays
   
 #### What I learned from revisiting this problem:
-- Always make sure the conditions is logical
+- Always try to formulate a solution on paper before writing because questions like this can seem easy, but it contains a lot of info which can be overwhelming during test.
