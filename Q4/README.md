@@ -1,7 +1,7 @@
 ## Question 4 Analysis
 ### Signature
 
-This section contains my analysis of Question 2 (Class Design):
+This section contains my analysis of Question 4 (2D Array):
 
 #### My initial approach during the exam:
 - Easy to understand
