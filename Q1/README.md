@@ -14,7 +14,7 @@ This section contains my analysis of Question 1 (Methods and Control Structures)
 #### Key concepts tested in this question:
 - calling Methods
 - If statements
-- ||
+- Boolean, and/or
 - loops
 - Instances
   
