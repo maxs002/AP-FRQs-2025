@@ -1,5 +1,5 @@
 ## Question 4 Analysis
-### Signature
+### Puzzle
 
 This section contains my analysis of Question 4 (2D Array):
 
