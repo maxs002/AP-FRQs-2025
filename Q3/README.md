@@ -1,5 +1,5 @@
 ## Question 3 Analysis
-### Signature
+### Competition
 
 This section contains my analysis of Question 3 (Array/ArrayList):
 
