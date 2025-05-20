@@ -1,7 +1,7 @@
 ## Question 3 Analysis
 ### Signature
 
-This section contains my analysis of Question 2 (Class Design):
+This section contains my analysis of Question 3 (Array/ArrayList):
 
 #### My initial approach during the exam:
 - Easy to understand
